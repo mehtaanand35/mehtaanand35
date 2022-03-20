@@ -19,3 +19,5 @@
 # Connect with me:
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/anand-mehta-91270714b/)
+
+(https://github-readme-stats.vercel.app/api?username=mehtaanand35&theme=tokyonight)

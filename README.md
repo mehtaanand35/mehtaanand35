@@ -20,4 +20,6 @@
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/anand-mehta-91270714b/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehtaanand35)](https://github.com/mehtaanand35/github-readme-stats)
+
 [![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehtaanand35&theme=tokyonight)](https://github.com/mehtaanand35/github-readme-stats)

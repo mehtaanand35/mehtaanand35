@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=mehtaanand35&colour=blue&style=for-the-badge)
+
 # Hi 👋, I'm Anand Mehta
 
 
@@ -6,6 +8,7 @@
 * 🌱 I’m currently learning MERN Stack
 * 💬 Ask me about DSA and MERN Stack
 * 📫 How to reach me: anandmehta237@gmail.com
+*⚡ Fun fact #I love interacting with animals, watching movies and listening to music.
 
 # Things I work with
 
@@ -23,3 +26,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehtaanand35)](https://github.com/mehtaanand35/github-readme-stats)
 
 [![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehtaanand35&theme=tokyonight)](https://github.com/mehtaanand35/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mehtaanand35&theme=tokyonight)](https://git.io/streak-stats)

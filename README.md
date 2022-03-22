@@ -8,8 +8,7 @@
 * 🌱 I’m currently learning MERN Stack
 * 💬 Ask me about DSA and MERN Stack
 * 📫 How to reach me: anandmehta237@gmail.com
-* ⚡ Fun fact:
-# I love interacting with animals, watching movies, listening to music and traveling.
+* ⚡ Fun fact **I love interacting with animals, watching movies, listening to music and traveling.**
 
 
 # Things I work with:
